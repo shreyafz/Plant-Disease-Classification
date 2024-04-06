@@ -1,0 +1,4 @@
+Python 3.x
+TensorFlow (>= 2.0)
+TensorFlow Datasets
+matplotlib
