@@ -1,4 +1,4 @@
-# Plant Disease Classification with Convolutional Neural Networks
+# Plant Disease Classification using Computer Vision
 
 ## Description:
 
